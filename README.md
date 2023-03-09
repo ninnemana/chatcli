@@ -1,0 +1,2 @@
+# chatcli
+Another ChatGPT CLI
